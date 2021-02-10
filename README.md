@@ -1,9 +1,6 @@
 # FUNJOCoin Explorer
 
-<img src="http://64.225.59.213/img/explorer-logo.png" alt="ETC Explorer logo" height="200" />
-
-<b>Live Version: [etherhub.io](http://etherhub.io)</b>
-
+<img src="http://64.225.59.213/img/explorer-logo.png" alt="ETC Explorer logo" height="150" />
 
 ## Local installation
 
