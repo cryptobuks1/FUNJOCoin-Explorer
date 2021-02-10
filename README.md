@@ -1,10 +1,9 @@
-# ETC Explorer
+# FUNJOCoin Explorer
 
-<img src="public/img/explorer-logo.png" alt="ETC Explorer logo" height="200" />
+<img src="http://64.225.59.213/img/explorer-logo.png" alt="ETC Explorer logo" height="200" />
 
 <b>Live Version: [etherhub.io](http://etherhub.io)</b>
 
-Follow the project progress at: [ETC Block Explorer Development](https://github.com/ethereumclassic/explorer)
 
 ## Local installation
 
@@ -45,19 +44,18 @@ Basic settings:
     "patchBlocks":  100,
     "bulkSize":     100,
     "settings": {
-        "symbol": "ETC",
-        "name": "Ethereum Classic",
-        "title": "Ethereum Classic Block Explorer",
-        "author": "Elaine",
-        "rss": "https://ethereumclassic.org",
-        "reddit": "https://www.reddit.com/r/EthereumClassic",
-        "twitter": "https://twitter.com/eth_classic",
-        "linkedin": "https://www.linkedin.com/company/ethereum-classic",
-        "github": "https://github.com/ethereumclassic",
-        "logo": "/img/explorer-logo.png",
-        "copyright": "2019 &copy; Ethereum Classic.",
+        "symbol": "FUNJO",
+        "name": "FUNJOCOIN",
+        "title": "FUNJO Coin Explorer",
+        "rss": "http://funjocoin.com",
+        "reddit": "https://www.reddit.com/r/FunjoCoin",
+        "twitter": "https://twitter.com/FunjoCoin",
+        "linkedin": "https://www.linkedin.com/company/FunjoCoin",
+        "github": "https://github.com/funjocoin-dev",
+        "logo": "http://64.225.59.213/img/explorer-logo.png",
+        "copyright": "2021 &copy; FunjoCoin.",
         "poweredbyCustom": false,
-        "poweredbyEtcImage": "/img/powered-by-etcexplorer-w.png",
+        "poweredbyEtcImage": "http://64.225.59.213/img/explorer-logo.png",
         "poweredbyEtc": true,
         "useRichList": true,
         "useFiat": true,
